@@ -5,7 +5,7 @@
 
 I am a Software Developer.
 
-- 🔭 I’m currently working on JavaScript, React.
+- 🔭 I’m currently working on JavaScript, React, Node.
 - 🌱 I’m currently learning Ruby.
 - 👯 I’m looking to collaborate on open source development project.
 - 🤔 I’m looking for help with Ruby.
