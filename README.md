@@ -5,10 +5,8 @@
 
 I am a Software Developer.
 
-- 🔭 I’m currently working on JavaScript, React, Node.
-- 🌱 I’m currently learning Ruby.
+- 🔭 I’m currently working on JavaScript, React, Next, Node.
 - 👯 I’m looking to collaborate on open source development project.
-- 🤔 I’m looking for help with Ruby.
 - 💬 Ask me about anything
 - 📫 How to reach me: saikatgpae@gmail.com
 - 😄 Pronouns: He/Him.
